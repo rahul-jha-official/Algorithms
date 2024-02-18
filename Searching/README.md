@@ -8,7 +8,7 @@ Based on the type of search operation, these algorithms are generally classified
 # Linear Search
 Linear Search is defined as a sequential search algorithm that starts at one end and goes through each element of a list until the desired element is found, otherwise the search continues till the end of the data set.</br>
 
-<img width="408" alt="image" src="https://github.com/rahul-jha-official/Algorithms/assets/138975150/65b6af0e-701c-4bc9-a92c-38758a6f9238">
+<img width="100%" alt="image" src="https://github.com/rahul-jha-official/Algorithms/assets/138975150/65b6af0e-701c-4bc9-a92c-38758a6f9238">
 
 </br>
 
@@ -37,7 +37,7 @@ Linear Search is defined as a sequential search algorithm that starts at one end
 # Binary Search
 Binary Search is defined as a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(log N).
 
-<img width="499" alt="image" src="https://github.com/rahul-jha-official/Algorithms/assets/138975150/39a26052-9079-4d9c-acd1-51bee87c6bc0">
+<img width="100%" alt="image" src="https://github.com/rahul-jha-official/Algorithms/assets/138975150/39a26052-9079-4d9c-acd1-51bee87c6bc0">
 
 </br>
 
